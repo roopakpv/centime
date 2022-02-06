@@ -1,0 +1,20 @@
+.headerLogo {
+  margin: 10px;
+  float: left;
+}
+.headerDiv {
+  border-bottom: 1px solid gray;
+  position: absolute;
+  width: 100%;
+}
+.heading {
+  display: block;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.select {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  min-width: 130px;
+}
